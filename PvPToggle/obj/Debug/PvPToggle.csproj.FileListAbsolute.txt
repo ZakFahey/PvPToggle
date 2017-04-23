@@ -1,0 +1,15 @@
+C:\Users\Zak\Google Drive\TShock Mods\PvPToggle\PvPToggle\obj\Debug\PvPToggle.csprojResolveAssemblyReference.cache
+C:\Users\Zak\Google Drive\TShock Mods\PvPToggle\PvPToggle\bin\Debug\PvPToggle.dll
+C:\Users\Zak\Google Drive\TShock Mods\PvPToggle\PvPToggle\bin\Debug\PvPToggle.pdb
+C:\Users\Zak\Google Drive\TShock Mods\PvPToggle\PvPToggle\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zak\Google Drive\TShock Mods\PvPToggle\PvPToggle\bin\Debug\OTAPI.dll
+C:\Users\Zak\Google Drive\TShock Mods\PvPToggle\PvPToggle\bin\Debug\TerrariaServer.exe
+C:\Users\Zak\Google Drive\TShock Mods\PvPToggle\PvPToggle\bin\Debug\TShockAPI.dll
+C:\Users\Zak\Google Drive\TShock Mods\PvPToggle\PvPToggle\bin\Debug\HttpServer.dll
+C:\Users\Zak\Google Drive\TShock Mods\PvPToggle\PvPToggle\bin\Debug\MySql.Data.dll
+C:\Users\Zak\Google Drive\TShock Mods\PvPToggle\PvPToggle\bin\Debug\BCrypt.Net.dll
+C:\Users\Zak\Google Drive\TShock Mods\PvPToggle\PvPToggle\bin\Debug\PedguinServer.dll
+C:\Users\Zak\Google Drive\TShock Mods\PvPToggle\PvPToggle\bin\Debug\Mono.Data.Sqlite.dll
+C:\Users\Zak\Google Drive\TShock Mods\PvPToggle\PvPToggle\bin\Debug\SharedConstants.dll
+C:\Users\Zak\Google Drive\TShock Mods\PvPToggle\PvPToggle\obj\Debug\PvPToggle.dll
+C:\Users\Zak\Google Drive\TShock Mods\PvPToggle\PvPToggle\obj\Debug\PvPToggle.pdb

@@ -1,0 +1,23 @@
+C:\Users\asus\Desktop\Pedguin Server Plugins\PvPToggle-master\PvPToggle\bin\Release\PvPToggle.dll
+C:\Users\asus\Desktop\Pedguin Server Plugins\PvPToggle-master\PvPToggle\bin\Release\PvPToggle.pdb
+C:\Users\asus\Desktop\Pedguin Server Plugins\PvPToggle-master\PvPToggle\obj\Release\PvPToggle.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\Pedguin Server Plugins\PvPToggle-master\PvPToggle\obj\Release\PvPToggle.dll
+C:\Users\asus\Desktop\Pedguin Server Plugins\PvPToggle-master\PvPToggle\obj\Release\PvPToggle.pdb
+C:\Users\Aled\Downloads\PvPToggle-master\PvPToggle-master\PvPToggle\bin\Release\PvPToggle.dll
+C:\Users\Aled\Downloads\PvPToggle-master\PvPToggle-master\PvPToggle\bin\Release\PvPToggle.pdb
+C:\Users\Aled\Downloads\PvPToggle-master\PvPToggle-master\PvPToggle\obj\Release\PvPToggle.csprojResolveAssemblyReference.cache
+C:\Users\Aled\Downloads\PvPToggle-master\PvPToggle-master\PvPToggle\obj\Release\PvPToggle.dll
+C:\Users\Aled\Downloads\PvPToggle-master\PvPToggle-master\PvPToggle\obj\Release\PvPToggle.pdb
+C:\Users\Aled\Documents\Terraria\Servers\PvPToggle-master\PvPToggle-master\PvPToggle\obj\Release\PvPToggle.csprojResolveAssemblyReference.cache
+C:\Users\Aled\Documents\Terraria\Servers\PvPToggle-master\PvPToggle-master\PvPToggle\obj\Release\PvPToggle.dll
+C:\Users\Aled\Documents\Terraria\Servers\PvPToggle-master\PvPToggle-master\PvPToggle\obj\Release\PvPToggle.pdb
+C:\Users\Aled\Documents\Terraria\Servers\PvPToggle-master\PvPToggle-master\PvPToggle\bin\Release\PvPToggle.dll
+C:\Users\Aled\Documents\Terraria\Servers\PvPToggle-master\PvPToggle-master\PvPToggle\bin\Release\PvPToggle.pdb
+C:\Users\Aled\Documents\Terraria\Servers\PvPToggle-master\PvPToggle-master\PvPToggle\bin\Release\Newtonsoft.Json.dll
+C:\Users\Aled\Documents\Terraria\Servers\PvPToggle-master\PvPToggle-master\PvPToggle\bin\Release\OTAPI.dll
+C:\Users\Aled\Documents\Terraria\Servers\PvPToggle-master\PvPToggle-master\PvPToggle\bin\Release\TerrariaServer.exe
+C:\Users\Aled\Documents\Terraria\Servers\PvPToggle-master\PvPToggle-master\PvPToggle\bin\Release\TShockAPI.dll
+C:\Users\Aled\Documents\Terraria\Servers\PvPToggle-master\PvPToggle-master\PvPToggle\bin\Release\MySql.Data.dll
+C:\Users\Aled\Documents\Terraria\Servers\PvPToggle-master\PvPToggle-master\PvPToggle\bin\Release\HttpServer.dll
+C:\Users\Aled\Documents\Terraria\Servers\PvPToggle-master\PvPToggle-master\PvPToggle\bin\Release\BCrypt.Net.dll
+C:\Users\Aled\Documents\Terraria\Servers\PvPToggle-master\PvPToggle-master\PvPToggle\bin\Release\Mono.Data.Sqlite.dll
